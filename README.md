@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/chandan04042003/dsaQuestions/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan04042003/dsaQuestions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/chandan04042003/dsaQuestions/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/chandan04042003/dsaQuestions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
