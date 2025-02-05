@@ -1,5 +1,5 @@
 class Solution {
-    // Two pointers
+    // Two pointers or can be done using sliding window as well
 public:
     int removeElement(vector<int>& nums, int val) {
         int i = 0;
