@@ -24,7 +24,7 @@ private:
                 
                 if(r==n-1 && c==n-1) return steps+1;
 
-                for(auto &[dr,dc]: delCoor){
+                for(auto &[dr,dc]: delCoor){ // imp
                     int newR = r + dr;
                     int newC = c + dc;
 
