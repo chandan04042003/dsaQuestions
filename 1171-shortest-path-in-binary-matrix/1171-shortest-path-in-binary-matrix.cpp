@@ -29,7 +29,7 @@ private:
                     int newC = c + dc;
 
                     if (newR >= 0 && newR < n && newC >= 0 && newC < n && !vis[newR][newC] 
-                    && grid[newR][newC] == 0){
+                    && grid[newR][newC] == 0){ // imp
                         vis[newR][newC]=true;
                         q.push({newR,newC});
                     } 
