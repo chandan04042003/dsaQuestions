@@ -39,7 +39,7 @@ private:
                     int Nc= c+dc;
                     if(Nr>=0 && Nr<n && Nc>=0 && Nc<n && !vis[Nr][Nc] && grid[Nr][Nc]==0){
                         vis[Nr][Nc]=true;
-                        maxi=max(maxi,steps+1);
+                        maxi=max(maxi,steps+1); // imp
                         q.push({Nr,Nc});
                     }
                 }
