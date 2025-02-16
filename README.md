@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chandan04042003/dsaQuestions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/chandan04042003/dsaQuestions/tree/master/0207-course-schedule) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/chandan04042003/dsaQuestions/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/chandan04042003/dsaQuestions/tree/master/1117-as-far-from-land-as-possible) |
@@ -121,9 +122,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chandan04042003/dsaQuestions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/chandan04042003/dsaQuestions/tree/master/0207-course-schedule) |
 | [0971-shortest-bridge](https://github.com/chandan04042003/dsaQuestions/tree/master/0971-shortest-bridge) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chandan04042003/dsaQuestions/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/chandan04042003/dsaQuestions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/chandan04042003/dsaQuestions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
