@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chandan04042003/dsaQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2358-number-of-ways-to-split-array](https://github.com/chandan04042003/dsaQuestions/tree/master/2358-number-of-ways-to-split-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/chandan04042003/dsaQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/chandan04042003/dsaQuestions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chandan04042003/dsaQuestions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0229-majority-element-ii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/chandan04042003/dsaQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chandan04042003/dsaQuestions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/chandan04042003/dsaQuestions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0088-merge-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/chandan04042003/dsaQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0493-reverse-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/chandan04042003/dsaQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
