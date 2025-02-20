@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/chandan04042003/dsaQuestions/tree/master/0134-gas-station) |
+| [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -149,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/chandan04042003/dsaQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0210-course-schedule-ii) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
