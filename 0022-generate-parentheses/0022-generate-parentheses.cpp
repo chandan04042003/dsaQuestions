@@ -6,7 +6,7 @@ private:
             return;
         }
 
-        if (c1 > 0 && c1 > c2) {
+        if (c1 > 0 && c1 > c2) { // imp condition
             arr[i] = '(';
             helper(i - 1, c1 - 1, c2, arr, ans);
         }
