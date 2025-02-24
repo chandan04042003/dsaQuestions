@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/chandan04042003/dsaQuestions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/chandan04042003/dsaQuestions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
 | [2470-removing-stars-from-a-string](https://github.com/chandan04042003/dsaQuestions/tree/master/2470-removing-stars-from-a-string) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/chandan04042003/dsaQuestions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/chandan04042003/dsaQuestions/tree/master/2050-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/chandan04042003/dsaQuestions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
