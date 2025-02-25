@@ -1,8 +1,8 @@
 class Solution {
 private:
 vector<string> table={
-    " ",
-    " ",
+    "",
+    "",
     "abc",
     "def",
     "ghi",
