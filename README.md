@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/chandan04042003/dsaQuestions/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/chandan04042003/dsaQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/chandan04042003/dsaQuestions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/chandan04042003/dsaQuestions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/chandan04042003/dsaQuestions/tree/master/2050-count-good-numbers) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/chandan04042003/dsaQuestions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Recursion
 |  |
 | ------- |
