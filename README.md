@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/chandan04042003/dsaQuestions/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan04042003/dsaQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0747-min-cost-climbing-stairs) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/chandan04042003/dsaQuestions/tree/master/0971-shortest-bridge) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/chandan04042003/dsaQuestions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/chandan04042003/dsaQuestions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/chandan04042003/dsaQuestions/tree/master/0322-coin-change) |
+| [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0747-min-cost-climbing-stairs) |
 | [1117-as-far-from-land-as-possible](https://github.com/chandan04042003/dsaQuestions/tree/master/1117-as-far-from-land-as-possible) |
 ## Sorting
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chandan04042003/dsaQuestions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0229-majority-element-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/chandan04042003/dsaQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/chandan04042003/dsaQuestions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/chandan04042003/dsaQuestions/tree/master/0135-candy) |
+| [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
 ## Breadth-First Search
 |  |
