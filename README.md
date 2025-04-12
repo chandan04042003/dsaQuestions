@@ -216,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/chandan04042003/dsaQuestions/tree/master/0216-combination-sum-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/chandan04042003/dsaQuestions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/chandan04042003/dsaQuestions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
