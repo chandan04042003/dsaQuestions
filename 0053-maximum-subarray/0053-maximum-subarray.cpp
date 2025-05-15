@@ -9,7 +9,7 @@ public:
             maxi=max(maxi,nums[j]);
         }
         if(j>=nums.size()) return maxi;
-        // both =ve or -ve
+        // both +ve or -ve
         maxi=nums[0];
         int sum=0;
         for(int i=0;i<nums.size();i++){
