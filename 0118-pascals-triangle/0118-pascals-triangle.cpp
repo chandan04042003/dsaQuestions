@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> arr(numRows,vector<int>(numRows,0));
+        // using matrix representation
         vector<vector<int>> ans;
         for(int i=0;i<numRows;i++){
             arr[i][0]=1;
