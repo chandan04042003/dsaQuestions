@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/chandan04042003/dsaQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/chandan04042003/dsaQuestions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/chandan04042003/dsaQuestions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/chandan04042003/dsaQuestions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/chandan04042003/dsaQuestions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/chandan04042003/dsaQuestions/tree/master/0322-coin-change) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/chandan04042003/dsaQuestions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/chandan04042003/dsaQuestions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/chandan04042003/dsaQuestions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/chandan04042003/dsaQuestions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/chandan04042003/dsaQuestions/tree/master/0443-string-compression) |
