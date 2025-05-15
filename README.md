@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/chandan04042003/dsaQuestions/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan04042003/dsaQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/chandan04042003/dsaQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0747-min-cost-climbing-stairs) |
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandan04042003/dsaQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/chandan04042003/dsaQuestions/tree/master/0643-maximum-average-subarray-i) |
 ## String Matching
 |  |
 | ------- |
