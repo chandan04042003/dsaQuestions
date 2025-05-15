@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chandan04042003/dsaQuestions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/chandan04042003/dsaQuestions/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/chandan04042003/dsaQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chandan04042003/dsaQuestions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/chandan04042003/dsaQuestions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/chandan04042003/dsaQuestions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/chandan04042003/dsaQuestions/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
 | [0782-jewels-and-stones](https://github.com/chandan04042003/dsaQuestions/tree/master/0782-jewels-and-stones) |
