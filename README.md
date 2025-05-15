@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chandan04042003/dsaQuestions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/chandan04042003/dsaQuestions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/chandan04042003/dsaQuestions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandan04042003/dsaQuestions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/chandan04042003/dsaQuestions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/chandan04042003/dsaQuestions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/chandan04042003/dsaQuestions/tree/master/0322-coin-change) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
