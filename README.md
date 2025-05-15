@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/chandan04042003/dsaQuestions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/chandan04042003/dsaQuestions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/chandan04042003/dsaQuestions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/chandan04042003/dsaQuestions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/chandan04042003/dsaQuestions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/chandan04042003/dsaQuestions/tree/master/2050-count-good-numbers) |
