@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/chandan04042003/dsaQuestions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/chandan04042003/dsaQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/chandan04042003/dsaQuestions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/chandan04042003/dsaQuestions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/chandan04042003/dsaQuestions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/chandan04042003/dsaQuestions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/chandan04042003/dsaQuestions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/chandan04042003/dsaQuestions/tree/master/0204-count-primes) |
 | [2050-count-good-numbers](https://github.com/chandan04042003/dsaQuestions/tree/master/2050-count-good-numbers) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/chandan04042003/dsaQuestions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Recursion
@@ -273,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/chandan04042003/dsaQuestions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/chandan04042003/dsaQuestions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
