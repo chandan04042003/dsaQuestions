@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/chandan04042003/dsaQuestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0090-subsets-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chandan04042003/dsaQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/chandan04042003/dsaQuestions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/chandan04042003/dsaQuestions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/chandan04042003/dsaQuestions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/chandan04042003/dsaQuestions/tree/master/0443-string-compression) |
@@ -216,12 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
 | [2470-removing-stars-from-a-string](https://github.com/chandan04042003/dsaQuestions/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chandan04042003/dsaQuestions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/chandan04042003/dsaQuestions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
 | [2050-count-good-numbers](https://github.com/chandan04042003/dsaQuestions/tree/master/2050-count-good-numbers) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/chandan04042003/dsaQuestions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Recursion
