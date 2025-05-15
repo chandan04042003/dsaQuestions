@@ -1,26 +1,23 @@
 class Solution {
-private:
-    int nCr(int n, int r) {
-        long long res = 1;
-
-        // calculating nCr:
-        for (int i = 0; i < r; i++) {
-            res = res * (n - i);
-            res = res / (i + 1);
-        }
-        return (int)(res);
-    }
 public:
-    vector<vector<int>> generate(int n) {
+    vector<vector<int>> generate(int numRows) {
+        vector<vector<int>> arr(numRows,vector<int>(numRows,0));
         vector<vector<int>> ans;
-
-        //Store the entire pascal's triangle:
-        for (int row = 1; row <= n; row++) {
-            vector<int> tempLst; // temporary list
-            for (int col = 1; col <= row; col++) {
-                tempLst.push_back(nCr(row - 1, col - 1));
+        for(int i=0;i<numRows;i++){
+            arr[i][0]=1;
+            arr[i][i]=1;
+        }
+        for(int i=2;i<numRows;i++){
+            for(int j=1;j<i;j++){
+                arr[i][j]=arr[i-1][j-1]+arr[i-1][j];
             }
-            ans.push_back(tempLst);
+        }
+        for(int i=0;i<numRows;i++){
+            vector<int> vec;
+            for(int j=0;j<=i;j++){
+                vec.push_back(arr[i][j]);
+            }
+            ans.push_back(vec);
         }
         return ans;
     }
