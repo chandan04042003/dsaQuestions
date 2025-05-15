@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/chandan04042003/dsaQuestions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/chandan04042003/dsaQuestions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/chandan04042003/dsaQuestions/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/chandan04042003/dsaQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/chandan04042003/dsaQuestions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/chandan04042003/dsaQuestions/tree/master/0204-count-primes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chandan04042003/dsaQuestions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/chandan04042003/dsaQuestions/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/chandan04042003/dsaQuestions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/chandan04042003/dsaQuestions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chandan04042003/dsaQuestions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/chandan04042003/dsaQuestions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/chandan04042003/dsaQuestions/tree/master/2050-count-good-numbers) |
