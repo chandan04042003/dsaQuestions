@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/chandan04042003/dsaQuestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/chandan04042003/dsaQuestions/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/chandan04042003/dsaQuestions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/chandan04042003/dsaQuestions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -235,12 +236,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/chandan04042003/dsaQuestions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/chandan04042003/dsaQuestions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/chandan04042003/dsaQuestions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/chandan04042003/dsaQuestions/tree/master/2050-count-good-numbers) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/chandan04042003/dsaQuestions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/chandan04042003/dsaQuestions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/chandan04042003/dsaQuestions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/chandan04042003/dsaQuestions/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
