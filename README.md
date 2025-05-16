@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chandan04042003/dsaQuestions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/chandan04042003/dsaQuestions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/chandan04042003/dsaQuestions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0088-merge-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/chandan04042003/dsaQuestions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/chandan04042003/dsaQuestions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/chandan04042003/dsaQuestions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/chandan04042003/dsaQuestions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/chandan04042003/dsaQuestions/tree/master/0198-house-robber) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/chandan04042003/dsaQuestions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/chandan04042003/dsaQuestions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
