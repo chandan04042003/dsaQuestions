@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/chandan04042003/dsaQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/chandan04042003/dsaQuestions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/chandan04042003/dsaQuestions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/chandan04042003/dsaQuestions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/chandan04042003/dsaQuestions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/chandan04042003/dsaQuestions/tree/master/0198-house-robber) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/chandan04042003/dsaQuestions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/chandan04042003/dsaQuestions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/chandan04042003/dsaQuestions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/chandan04042003/dsaQuestions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/chandan04042003/dsaQuestions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0189-rotate-array) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chandan04042003/dsaQuestions/tree/master/0204-count-primes) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/chandan04042003/dsaQuestions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
