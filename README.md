@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/chandan04042003/dsaQuestions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1435-xor-queries-of-a-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chandan04042003/dsaQuestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/chandan04042003/dsaQuestions/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/chandan04042003/dsaQuestions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chandan04042003/dsaQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan04042003/dsaQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/chandan04042003/dsaQuestions/tree/master/0782-jewels-and-stones) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/chandan04042003/dsaQuestions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Prefix Sum
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0229-majority-element-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/chandan04042003/dsaQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3430-count-days-without-meetings](https://github.com/chandan04042003/dsaQuestions/tree/master/3430-count-days-without-meetings) |
 ## Counting
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/chandan04042003/dsaQuestions/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/chandan04042003/dsaQuestions/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/chandan04042003/dsaQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
