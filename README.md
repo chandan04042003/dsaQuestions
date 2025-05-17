@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/chandan04042003/dsaQuestions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1435-xor-queries-of-a-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chandan04042003/dsaQuestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-map-of-highest-peak](https://github.com/chandan04042003/dsaQuestions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chandan04042003/dsaQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2358-number-of-ways-to-split-array](https://github.com/chandan04042003/dsaQuestions/tree/master/2358-number-of-ways-to-split-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0747-min-cost-climbing-stairs) |
 | [1117-as-far-from-land-as-possible](https://github.com/chandan04042003/dsaQuestions/tree/master/1117-as-far-from-land-as-possible) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chandan04042003/dsaQuestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandan04042003/dsaQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/chandan04042003/dsaQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chandan04042003/dsaQuestions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chandan04042003/dsaQuestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## String Matching
 |  |
 | ------- |
