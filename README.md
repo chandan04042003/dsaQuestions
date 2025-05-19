@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/chandan04042003/dsaQuestions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/chandan04042003/dsaQuestions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/chandan04042003/dsaQuestions/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/chandan04042003/dsaQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/chandan04042003/dsaQuestions/tree/master/0200-number-of-islands) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/chandan04042003/dsaQuestions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/chandan04042003/dsaQuestions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/chandan04042003/dsaQuestions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/chandan04042003/dsaQuestions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/chandan04042003/dsaQuestions/tree/master/0322-coin-change) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
