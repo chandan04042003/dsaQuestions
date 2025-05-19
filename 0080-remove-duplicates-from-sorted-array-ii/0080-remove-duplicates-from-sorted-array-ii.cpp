@@ -7,20 +7,18 @@ public:
         int cnt=1;
         while(j<n){
             if(nums[j]==nums[i]){
-                if(cnt>=2) j++;
-                else {
+                if(cnt<2){
                     cnt++;
                     swap(nums[i+1],nums[j]);
                     i++;
-                    j++;
                 }
             }
             else{
                 swap(nums[i+1],nums[j]);
                 i++;
-                j++;
                 cnt=1;
             }
+            j++;
         }
         return i+1;
     }
