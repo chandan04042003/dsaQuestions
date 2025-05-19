@@ -1,65 +1,56 @@
 class Solution {
 private:
-    void merge(vector<int> &arr, int low, int mid, int high) {
-        vector<int> temp; // temporary array
-        int left = low;      // starting index of left half of arr
-        int right = mid + 1;   // starting index of right half of arr
-
-        //storing elements in the temporary array in a sorted manner//
-
-        while (left <= mid && right <= high) {
-            if (arr[left] <= arr[right]) {
-                temp.push_back(arr[left]);
-                left++;
+    void divide(int l,int h,vector<int>& nums,int& cnt){
+        if(l>=h) return;
+        int mid=(l+h)/2;
+        divide(l,mid,nums,cnt);
+        divide(mid+1,h,nums,cnt);
+        merge(l,mid,h,nums,cnt);
+    }
+    void merge(int l,int mid,int h,vector<int>& nums,int &cnt){
+        int j=mid+1;
+        int i = l;
+        while (i <= mid && j <= h) {
+            if ((long long)nums[i] > 2LL * nums[j]) {
+                cnt += mid - i + 1;
+                j++;
+            } else {
+                i++;
             }
-            else {
-                temp.push_back(arr[right]);
-                right++;
+        }
+
+        // sorting
+        i=l;
+        j=mid+1;
+        vector<int> vec;
+        while(i<=mid && j<=h){
+            if(nums[i]<=nums[j]){
+                vec.push_back(nums[i]);
+                i++;
             }
+            else{
+                vec.push_back(nums[j]);
+                j++;
+            } 
         }
-
-        // if elements on the left half are still left //
-
-        while (left <= mid) {
-            temp.push_back(arr[left]);
-            left++;
+        // left outs
+        while(i<=mid){
+            vec.push_back(nums[i]);
+            i++;
         }
-
-        //  if elements on the right half are still left //
-        while (right <= high) {
-            temp.push_back(arr[right]);
-            right++;
+        while(j<=h){
+            vec.push_back(nums[j]);
+            j++;
         }
-
-        // transfering all elements from temporary to arr //
-        for (int i = low; i <= high; i++) {
-            arr[i] = temp[i - low];
+        for(int k=0;k<vec.size();k++){
+            nums[l+k]=vec[k];
         }
     }
-
-    int countPairs(vector<int> &arr, int low, int mid, int high) {
-        int right = mid + 1;
-        int cnt = 0;
-        for (int i = low; i <= mid; i++) {
-            while (right <= high && arr[i] >(long long) 2 * arr[right]) right++;
-            cnt += (right - (mid + 1));
-        }
-        return cnt;
-    }
-
-int mergeSort(vector<int> &arr, int low, int high) {
-    int cnt = 0;
-    if (low >= high) return cnt;
-    int mid = (low + high) / 2 ;
-    cnt += mergeSort(arr, low, mid);  // left half
-    cnt += mergeSort(arr, mid + 1, high); // right half
-    cnt += countPairs(arr, low, mid, high); //Modification
-    merge(arr, low, mid, high);  // merging sorted halves
-    return cnt;
-}
 public:
     int reversePairs(vector<int>& nums) {
         int n = nums.size();
-        return mergeSort(nums, 0, n - 1);
+        int cnt=0;
+        divide(0,n-1,nums,cnt);
+        return cnt;
     }
 };
