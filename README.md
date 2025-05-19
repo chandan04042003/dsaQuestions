@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/chandan04042003/dsaQuestions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/chandan04042003/dsaQuestions/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/chandan04042003/dsaQuestions/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan04042003/dsaQuestions/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chandan04042003/dsaQuestions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/chandan04042003/dsaQuestions/tree/master/0274-h-index) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chandan04042003/dsaQuestions/tree/master/0062-unique-paths) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/chandan04042003/dsaQuestions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
