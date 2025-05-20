@@ -30,7 +30,8 @@ public:
         if(!head || !head->next) return head;
         ListNode* dummy=new ListNode(0);
         dummy->next = head;
-        ListNode* prev = dummy;
+        ListNode* prev = dummy; // dummy is used because if head is used and l=1
+        // (from head), the final ans to be returned should be the last node
 
         for (int i = 1; i < left; i++) prev = prev->next;
         ListNode* l = prev->next;
