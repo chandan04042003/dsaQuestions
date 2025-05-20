@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chandan04042003/dsaQuestions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/chandan04042003/dsaQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/chandan04042003/dsaQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan04042003/dsaQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/chandan04042003/dsaQuestions/tree/master/0782-jewels-and-stones) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/chandan04042003/dsaQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/chandan04042003/dsaQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0344-reverse-string) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/chandan04042003/dsaQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/chandan04042003/dsaQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0328-odd-even-linked-list) |
