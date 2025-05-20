@@ -9,22 +9,22 @@
  * };
  */
 class Solution {
-private:
-    ListNode* reverseLL(ListNode* head){
-        if(!head || !head->next) return head;
-        ListNode* ptr1=head;
-        ListNode* ptr2=head->next;
-        ListNode* ptr3=ptr2->next;
-        head->next=nullptr;
-        while(ptr3!=nullptr){
-            ptr2->next=ptr1;
-            ptr1=ptr2;
-            ptr2=ptr3;
-            ptr3=ptr3->next;
-        }
-        ptr2->next=ptr1;
-        return ptr2;
-    }
+// private:
+//     ListNode* reverseLL(ListNode* head){
+//         if(!head || !head->next) return head;
+//         ListNode* ptr1=head;
+//         ListNode* ptr2=head->next;
+//         ListNode* ptr3=ptr2->next;
+//         head->next=nullptr;
+//         while(ptr3!=nullptr){
+//             ptr2->next=ptr1;
+//             ptr1=ptr2;
+//             ptr2=ptr3;
+//             ptr3=ptr3->next;
+//         }
+//         ptr2->next=ptr1;
+//         return ptr2;
+//     }
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* dummy=new ListNode(0);
