@@ -19,7 +19,7 @@ public:
             j=j->next;
             cnt++;
         }
-        ListNode* prev=nullptr;
+        ListNode* prev=head;
         while(j->next){
             prev=i;
             i=i->next;
