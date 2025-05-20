@@ -12,8 +12,8 @@ class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
         if(!head) return nullptr;
-        ListNode* i=head;
-        ListNode* j=head->next;
+        ListNode* i=head; // odd pointer
+        ListNode* j=head->next; // even pointer
         ListNode* curr=j;
         while(i->next!=nullptr && j->next!=nullptr){
             i->next=i->next->next;
@@ -21,7 +21,7 @@ public:
             i=i->next;
             j=j->next;
         }
-        i->next=curr;
+        i->next=curr; // odd end connected to even start
         return head;
     }
 };
