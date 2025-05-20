@@ -24,10 +24,8 @@ public:
             }
             tail = tail->next;
         }
-
         // Attach the remaining part (only one of these will be non-null)
         tail->next = list1 ? list1 : list2;
-
         return dummy.next;
     }
 };
