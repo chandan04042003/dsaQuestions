@@ -10,7 +10,7 @@ public:
             while(!st.empty() && temperatures[st.top()]<=temperatures[i]){
                 st.pop();
             }
-            if(!st.empty()) nge[i]=st.top()-i;
+            if(!st.empty()) nge[i]=st.top()-i; // for nge just add i
             st.push(i);
         }
         return nge;
