@@ -12,6 +12,7 @@ public:
     
     void pop() {
         st.pop_back();
+        // imp
         if(!st.empty()) mini=st.back().second;
         else mini = INT_MAX; 
     }
