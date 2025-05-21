@@ -12,6 +12,7 @@ public:
                 }
                 st.pop();
                 reverse(temp.begin(),temp.end());
+                // as guarenteed that number exists if there is []
                 string num;
                 while(!st.empty() && st.top()>='0' && st.top()<='9'){
                     num.push_back(st.top());
@@ -19,7 +20,8 @@ public:
                 }
                 reverse(num.begin(),num.end());
                 int n=stoi(num);
-                while (n--) { // push back to stack to deal with nested loop (imp edge case)
+                // push back to stack to deal with nested loop (imp edge case)
+                while (n--) { 
                     for (char ch : temp) {
                         st.push(ch);
                     }
