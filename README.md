@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/chandan04042003/dsaQuestions/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
 | [0782-jewels-and-stones](https://github.com/chandan04042003/dsaQuestions/tree/master/0782-jewels-and-stones) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/chandan04042003/dsaQuestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chandan04042003/dsaQuestions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/chandan04042003/dsaQuestions/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/chandan04042003/dsaQuestions/tree/master/2470-removing-stars-from-a-string) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/chandan04042003/dsaQuestions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chandan04042003/dsaQuestions/tree/master/0739-daily-temperatures) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/chandan04042003/dsaQuestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/chandan04042003/dsaQuestions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
