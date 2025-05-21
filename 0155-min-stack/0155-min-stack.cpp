@@ -13,7 +13,7 @@ public:
     void pop() {
         st.pop_back();
         if(!st.empty()) mini=st.back().second;
-        else mini = INT_MAX;  // Reset when empty
+        else mini = INT_MAX; 
     }
     
     int top() {
