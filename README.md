@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/chandan04042003/dsaQuestions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chandan04042003/dsaQuestions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/chandan04042003/dsaQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/chandan04042003/dsaQuestions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandan04042003/dsaQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chandan04042003/dsaQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/chandan04042003/dsaQuestions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/chandan04042003/dsaQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/chandan04042003/dsaQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandan04042003/dsaQuestions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chandan04042003/dsaQuestions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/chandan04042003/dsaQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/chandan04042003/dsaQuestions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
