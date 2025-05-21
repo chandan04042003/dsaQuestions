@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/chandan04042003/dsaQuestions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/chandan04042003/dsaQuestions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/chandan04042003/dsaQuestions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/chandan04042003/dsaQuestions/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandan04042003/dsaQuestions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/chandan04042003/dsaQuestions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/chandan04042003/dsaQuestions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/chandan04042003/dsaQuestions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/chandan04042003/dsaQuestions/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
