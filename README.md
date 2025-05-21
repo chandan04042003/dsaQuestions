@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/chandan04042003/dsaQuestions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/chandan04042003/dsaQuestions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/chandan04042003/dsaQuestions/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/chandan04042003/dsaQuestions/tree/master/0402-remove-k-digits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chandan04042003/dsaQuestions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/chandan04042003/dsaQuestions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/chandan04042003/dsaQuestions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/chandan04042003/dsaQuestions/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chandan04042003/dsaQuestions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/chandan04042003/dsaQuestions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/chandan04042003/dsaQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/chandan04042003/dsaQuestions/tree/master/0735-asteroid-collision) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/chandan04042003/dsaQuestions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/chandan04042003/dsaQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chandan04042003/dsaQuestions/tree/master/0739-daily-temperatures) |
