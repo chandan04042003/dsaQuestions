@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/chandan04042003/dsaQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/chandan04042003/dsaQuestions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/chandan04042003/dsaQuestions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0747-min-cost-climbing-stairs) |
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/chandan04042003/dsaQuestions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/chandan04042003/dsaQuestions/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/chandan04042003/dsaQuestions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/chandan04042003/dsaQuestions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
