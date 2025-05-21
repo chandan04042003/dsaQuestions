@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/chandan04042003/dsaQuestions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/chandan04042003/dsaQuestions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/chandan04042003/dsaQuestions/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chandan04042003/dsaQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/chandan04042003/dsaQuestions/tree/master/0198-house-robber) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandan04042003/dsaQuestions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chandan04042003/dsaQuestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chandan04042003/dsaQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chandan04042003/dsaQuestions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/chandan04042003/dsaQuestions/tree/master/0394-decode-string) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/chandan04042003/dsaQuestions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/chandan04042003/dsaQuestions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chandan04042003/dsaQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/chandan04042003/dsaQuestions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/chandan04042003/dsaQuestions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chandan04042003/dsaQuestions/tree/master/0204-count-primes) |
