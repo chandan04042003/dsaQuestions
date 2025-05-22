@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/chandan04042003/dsaQuestions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chandan04042003/dsaQuestions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0747-min-cost-climbing-stairs) |
+| [0860-design-circular-queue](https://github.com/chandan04042003/dsaQuestions/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/chandan04042003/dsaQuestions/tree/master/0971-shortest-bridge) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chandan04042003/dsaQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
+| [0860-design-circular-queue](https://github.com/chandan04042003/dsaQuestions/tree/master/0860-design-circular-queue) |
 ## Stack
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/0328-odd-even-linked-list) |
+| [0860-design-circular-queue](https://github.com/chandan04042003/dsaQuestions/tree/master/0860-design-circular-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/chandan04042003/dsaQuestions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/chandan04042003/dsaQuestions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/chandan04042003/dsaQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/chandan04042003/dsaQuestions/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/chandan04042003/dsaQuestions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
