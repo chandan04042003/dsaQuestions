@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/chandan04042003/dsaQuestions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chandan04042003/dsaQuestions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/chandan04042003/dsaQuestions/tree/master/0753-open-the-lock) |
 | [0860-design-circular-queue](https://github.com/chandan04042003/dsaQuestions/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/chandan04042003/dsaQuestions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan04042003/dsaQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [0753-open-the-lock](https://github.com/chandan04042003/dsaQuestions/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/chandan04042003/dsaQuestions/tree/master/0782-jewels-and-stones) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/chandan04042003/dsaQuestions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/chandan04042003/dsaQuestions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/chandan04042003/dsaQuestions/tree/master/0547-number-of-provinces) |
+| [0753-open-the-lock](https://github.com/chandan04042003/dsaQuestions/tree/master/0753-open-the-lock) |
 | [0871-keys-and-rooms](https://github.com/chandan04042003/dsaQuestions/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/chandan04042003/dsaQuestions/tree/master/0971-shortest-bridge) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/chandan04042003/dsaQuestions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/chandan04042003/dsaQuestions/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
+| [0753-open-the-lock](https://github.com/chandan04042003/dsaQuestions/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/chandan04042003/dsaQuestions/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/chandan04042003/dsaQuestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chandan04042003/dsaQuestions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
