@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/chandan04042003/dsaQuestions/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/chandan04042003/dsaQuestions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/chandan04042003/dsaQuestions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/chandan04042003/dsaQuestions/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/chandan04042003/dsaQuestions/tree/master/0322-coin-change) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chandan04042003/dsaQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/chandan04042003/dsaQuestions/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/chandan04042003/dsaQuestions/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/chandan04042003/dsaQuestions/tree/master/0969-number-of-recent-calls) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandan04042003/dsaQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/chandan04042003/dsaQuestions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/chandan04042003/dsaQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chandan04042003/dsaQuestions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chandan04042003/dsaQuestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -455,4 +458,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0937-online-stock-span](https://github.com/chandan04042003/dsaQuestions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/chandan04042003/dsaQuestions/tree/master/0969-number-of-recent-calls) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/chandan04042003/dsaQuestions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/chandan04042003/dsaQuestions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
