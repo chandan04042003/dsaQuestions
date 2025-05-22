@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/chandan04042003/dsaQuestions/tree/master/0971-shortest-bridge) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/chandan04042003/dsaQuestions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1036-rotting-oranges](https://github.com/chandan04042003/dsaQuestions/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/chandan04042003/dsaQuestions/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/chandan04042003/dsaQuestions/tree/master/0274-h-index) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/chandan04042003/dsaQuestions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/chandan04042003/dsaQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3430-count-days-without-meetings](https://github.com/chandan04042003/dsaQuestions/tree/master/3430-count-days-without-meetings) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/chandan04042003/dsaQuestions/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/chandan04042003/dsaQuestions/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/chandan04042003/dsaQuestions/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Stack
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/chandan04042003/dsaQuestions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/chandan04042003/dsaQuestions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/chandan04042003/dsaQuestions/tree/master/0735-asteroid-collision) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/chandan04042003/dsaQuestions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2470-removing-stars-from-a-string](https://github.com/chandan04042003/dsaQuestions/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
