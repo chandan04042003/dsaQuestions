@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/chandan04042003/dsaQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/chandan04042003/dsaQuestions/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/chandan04042003/dsaQuestions/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/chandan04042003/dsaQuestions/tree/master/0969-number-of-recent-calls) |
 ## Stack
 |  |
 | ------- |
@@ -445,8 +446,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/chandan04042003/dsaQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/chandan04042003/dsaQuestions/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/chandan04042003/dsaQuestions/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/chandan04042003/dsaQuestions/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/chandan04042003/dsaQuestions/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/chandan04042003/dsaQuestions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
