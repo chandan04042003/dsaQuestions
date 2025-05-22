@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+        // monotonically decreasing deque
         deque<int> dq; // store indices
         vector<int> ans;
 
