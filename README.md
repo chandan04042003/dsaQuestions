@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/chandan04042003/dsaQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan04042003/dsaQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/chandan04042003/dsaQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/chandan04042003/dsaQuestions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/chandan04042003/dsaQuestions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/chandan04042003/dsaQuestions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chandan04042003/dsaQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/chandan04042003/dsaQuestions/tree/master/0747-min-cost-climbing-stairs) |
 | [1117-as-far-from-land-as-possible](https://github.com/chandan04042003/dsaQuestions/tree/master/1117-as-far-from-land-as-possible) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/chandan04042003/dsaQuestions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0542-01-matrix) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/chandan04042003/dsaQuestions/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/chandan04042003/dsaQuestions/tree/master/1036-rotting-oranges) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/chandan04042003/dsaQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/chandan04042003/dsaQuestions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/chandan04042003/dsaQuestions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/chandan04042003/dsaQuestions/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
