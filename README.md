@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/chandan04042003/dsaQuestions/tree/master/0917-boats-to-save-people) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/chandan04042003/dsaQuestions/tree/master/0971-shortest-bridge) |
+| [1036-rotting-oranges](https://github.com/chandan04042003/dsaQuestions/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/chandan04042003/dsaQuestions/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/chandan04042003/dsaQuestions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/chandan04042003/dsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/chandan04042003/dsaQuestions/tree/master/0971-shortest-bridge) |
+| [1036-rotting-oranges](https://github.com/chandan04042003/dsaQuestions/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/chandan04042003/dsaQuestions/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/chandan04042003/dsaQuestions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/chandan04042003/dsaQuestions/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/chandan04042003/dsaQuestions/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/chandan04042003/dsaQuestions/tree/master/0971-shortest-bridge) |
+| [1036-rotting-oranges](https://github.com/chandan04042003/dsaQuestions/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/chandan04042003/dsaQuestions/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/chandan04042003/dsaQuestions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/chandan04042003/dsaQuestions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
